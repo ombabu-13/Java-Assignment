@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class WrapperClassDemo {
-    public static void main2(String[] args) {
+    public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
         System.out.print("Enter first number: ");
