@@ -5,20 +5,17 @@ class RestaurantBill {
     // Static variable to count total orders
     static int totalOrders = 0;
 
-    // Dine-in bill
     void calculateBill(double amount) {
         totalOrders++;
         System.out.println("Dine-in Bill = " + amount);
     }
 
-    // Takeaway bill (packing charge)
     void calculateBill(double amount, double packingCharge) {
         totalOrders++;
         double total = amount + packingCharge;
         System.out.println("Takeaway Bill = " + total);
     }
 
-    // Delivery bill (packing + delivery charge)
     void calculateBill(double amount, double packingCharge, double deliveryCharge) {
         totalOrders++;
         double total = amount + packingCharge + deliveryCharge;
