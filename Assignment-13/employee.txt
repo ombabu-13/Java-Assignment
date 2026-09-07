@@ -1,0 +1,6 @@
+Employee Name: Ombabu Rauniyar
+Employee ID: 101
+Salary: 50000
+Employee Name: Amol Kamble
+Employee ID: 102
+Salary: 5000000

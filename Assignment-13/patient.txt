@@ -1,0 +1,23 @@
+Patient 1
+ID: 101
+Name: Ombabu Rauniyar
+Age: 20
+Diagnosis: Fever
+
+Patient 2
+ID: 102
+Name: Rahul Sharma
+Age: 22
+Diagnosis: Cold
+
+Patient 3
+ID: 103
+Name: Aryan Singh
+Age: 25
+Diagnosis: Headache
+
+Patient 4
+ID: 104
+Name: Rohan Patil
+Age: 21
+Diagnosis: Cough
